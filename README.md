@@ -12,3 +12,6 @@ change your bag name and topic
 
 imu_rosbag_creat:
 change frome [kalibr_bagcerater](https://github.com/ethz-asl/kalibr)
+
+euroc_to_tum:
+if you want use [evo](https://github.com/MichaelGrupp/evo) to anaylis your slam trajectory, you need change to TUM rajectory file format, it's a tool to change vins-mono trajectory to tum
